@@ -1,10 +1,15 @@
 {
-  "name": "hystrixjs-tma",
+  "name": "hystrixjs-ignore-rx",
   "version": "0.0.3",
   "description": "resilience module for NodeJS applications",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sequelize/sequelize.git"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node scripts/build.js"
   },
   "author": "",
   "license": "Apache 2.0",
