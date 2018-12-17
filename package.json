@@ -1,5 +1,5 @@
 {
-  "name": "hystrixjs-ignore-rx",
+  "name": "hystrixjs-ignore-rxjs",
   "version": "0.0.3",
   "description": "resilience module for NodeJS applications",
   "main": "index.js",
